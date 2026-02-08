@@ -1,0 +1,13 @@
+
+# Environment
+.env
+.env.*
+
+# Dependencies
+node_modules
+client/node_modules/
+
+# Builds
+client/build/
+build/
+dist/
